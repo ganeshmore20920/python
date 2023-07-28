@@ -1,0 +1,2 @@
+from lambdavsnamedfunction import defination
+print(defination)

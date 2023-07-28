@@ -1,0 +1,5 @@
+a = int(input("Enter a number : "))
+b = int(input("Enter second number : "))
+print("Square of first number is : ", a*a)
+print("Square of second number is : ", b*b)
+print("first number is greater than second : ", a>b)
